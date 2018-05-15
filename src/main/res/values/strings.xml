@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nota Mental</string>
+    <string name="the_develop_by_darkdmd">Develop by The DMD</string>
+    <string name="digite_algo">Digite algo</string>
+    <string name="lista_de_notas">Lista de notas</string>
+    <string name="gravar">Gravar</string>
+    <string name="ouvir">ouvir</string>
+    <string name="escrever_notas">Escrever notas</string>
+    <string name="atencao">Atenção</string>
+    <string name="deseja_fechar_app">Deseja realmente fechar o App?</string>
+    <string name="nao">Não</string>
+    <string name="gravar_notas">Redirecionando para gravar notas</string>
+</resources>

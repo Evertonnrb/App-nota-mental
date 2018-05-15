@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:autoMirrored="true"
+    android:dither="true" android:enterFadeDuration="2000" android:visible="true">
+    <item>
+        <shape>
+            <gradient android:angle="90"
+                android:endColor="@color/colorBranco"
+                android:startColor="@color/colorSplashDois"
+                android:centerColor="@color/colorSplashTres"
+                android:type="linear"></gradient>
+        </shape>
+    </item>
+</selector>

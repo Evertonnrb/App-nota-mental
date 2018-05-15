@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Compartilhar"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_like_us"
+        android:title="Curta nos no facebook"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_config"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Configurações"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_sair"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Sair"
+        app:showAsAction="never" />
+
+</menu>
